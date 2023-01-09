@@ -1,14 +1,15 @@
 ### <h1>Hi there👋 i'm Ezequiel Zvirgzdiņš</h1>
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
-
-- 🔭 I’m currently working on: music streaming services
-- 🛰️ I’m looking to collaborate on: space tech companies 
-- ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
-- 📫 How to reach me: zzezequiel@hotmail.com.ar
-
-![align="center"](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
-
+<div display="inline-block">
+  - 🔭 I’m currently working on: music streaming services
+  - 🛰️ I’m looking to collaborate on: space tech companies 
+  - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
+  - 📫 How to reach me: zzezequiel@hotmail.com.ar
+</div>
+<div display="inline-block">
+  ![](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 
