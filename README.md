@@ -13,10 +13,10 @@
 
 
 
-  <p><img align="rigth" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="400"></p>
+  <p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="200"></p>
 
 
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 
 
