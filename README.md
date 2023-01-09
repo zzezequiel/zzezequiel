@@ -2,6 +2,7 @@
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 
+<p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="300"></p>
 
   - 🔭 I’m currently working on: music streaming services
     
@@ -10,10 +11,6 @@
   - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
     
   - 📫 How to reach me: zzezequiel@hotmail.com.ar
-
-
-
-  <p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="200"></p>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
