@@ -2,8 +2,7 @@
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 
-<p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif"></p>
-  <br>
+<p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" border-radius="25"></p>
   <br>
   <br>
   - 🔭 I’m currently working on: music streaming services
@@ -14,7 +13,8 @@
     
   - 📫 How to reach me: zzezequiel@hotmail.com.ar
 
-
+  <br>
+  <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
