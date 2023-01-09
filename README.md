@@ -2,10 +2,17 @@
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 <div display="inline-block">
+  <p>
+    <br>
   - 🔭 I’m currently working on: music streaming services
+    <br>
   - 🛰️ I’m looking to collaborate on: space tech companies 
+    <br>
   - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
+    <br>
   - 📫 How to reach me: zzezequiel@hotmail.com.ar
+    <br>
+  </p>
 </div>
 <div display="inline-block">
   ![](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
