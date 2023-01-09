@@ -1,8 +1,8 @@
 ### <h1>Hi there👋 i'm Ezequiel Zvirgzdiņš</h1>
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
-<div display="flex">
-<div>
+
+<div align="rigth">
   <p>
     <br>
   - 🔭 I’m currently working on: music streaming services
@@ -15,10 +15,10 @@
     <br>
   </p>
 </div>
-<div>
+<div align="rigth">
   <img src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif">
 </div>
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 
