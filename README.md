@@ -17,7 +17,7 @@
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" width="300"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
@@ -41,8 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzezequiel&show_icons=true&locale=en" alt="zzezequiel" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/ezequiel-zvirgzdiņš" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel zvirgzdiņš" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ezequielzvirgzdins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ezequiel zvirgzdins" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ezequielzvirgzdini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezequielzvirgzdini" height="30" width="40" /></a>
