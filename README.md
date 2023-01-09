@@ -7,7 +7,7 @@
 - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
 - 📫 How to reach me: zzezequiel@hotmail.com.ar
 
-![](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
+![align="center"](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
