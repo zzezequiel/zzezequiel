@@ -1,6 +1,6 @@
-### Hi there👋 i'm Ezequiel Zvirgzdins
+### <h1>Hi there👋 i'm Ezequiel Zvirgzdins</h1>
 
-☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️
+<h2>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h2>
 
 - 🔭 I’m currently working on: music streaming services
 - 🛰️ I’m looking to collaborate on: space tech companies 
