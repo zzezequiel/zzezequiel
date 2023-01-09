@@ -3,7 +3,9 @@
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 
 <p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif"></p>
-
+  <br>
+  <br>
+  <br>
   - 🔭 I’m currently working on: music streaming services
     
   - 🛰️ I’m looking to collaborate on: space tech companies 
@@ -36,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzezequiel&show_icons=true&locale=en" alt="zzezequiel" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
