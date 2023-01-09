@@ -2,7 +2,7 @@
 
 <h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 
-<p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="300"></p>
+<p><img align="right" src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif"></p>
 
   - 🔭 I’m currently working on: music streaming services
     
@@ -13,14 +13,12 @@
   - 📫 How to reach me: zzezequiel@hotmail.com.ar
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
-  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
