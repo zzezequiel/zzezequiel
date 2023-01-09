@@ -15,7 +15,7 @@
   </p>
 </div>
 <div display="inline-block">
-  ![](https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif)
+  <img src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
