@@ -13,9 +13,6 @@
   - 📫 How to reach me: zzezequiel@hotmail.com.ar
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,6 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzezequiel&show_icons=true&locale=en" alt="zzezequiel" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="zzezequiel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
