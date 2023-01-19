@@ -11,7 +11,7 @@
     
   - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
     
-  - 📫 How to reach me: zzezequiel@hotmail.com.ar
+  - 📫 How to reach me: Ezequielzvirgzdins@gmail.com
 
   <br>
   <br>
