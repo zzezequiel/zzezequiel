@@ -5,20 +5,22 @@
 <p><img align="right" src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif" border-radius="25"></p>
   <br>
   <br>
-  - 🔭 I’m currently working on: music streaming services
+  - 🔭 I’m currently working on: customer loyalty app 🐒 (personal project)
     
-  - 🛰️ I’m looking to collaborate on: space tech companies 
+  - 🛰️ I'm collaborating on: GMAO software SPI
     
   - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
     
-  - 📫 How to reach me: Ezequielzvirgzdins@gmail.com
+  - 📫 How to reach me: Ezequiel Zvirgzdins (LinkedIn)
 
   <br>
   <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="express" width="50" height="50"/> </a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="50" height="50"/> </a>
+  <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" alt=".NET" width="50" height="50"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="NEXT.JS" width="50" height="50"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="50" height="50"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" alt="express" width="50" height="50"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="50"/> </a>
