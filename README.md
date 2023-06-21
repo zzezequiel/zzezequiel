@@ -1,6 +1,6 @@
 ### <h1>Hi there👋 i'm Ezequiel Zvirgzdiņš</h1>
 
-<h3>☄️Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
+<h3>☄️Master in Software Development at Assembler Institute of Technology, Barcelona, Spain.☄️</h3>
 
 <p><img align="right" src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif" border-radius="25"></p>
   <br>
