@@ -9,9 +9,9 @@
     
   - 🛰️ I'm collaborating on: GMAO software SPI
     
-  - ⚡ Hobbies: 🏋️‍♂️Gym - 🪄Magic tricks - 🚀Space business
+  - ⚡ Hobbies: 🏋️‍♂️Gym - ✨Magic tricks - 🚀Space business
     
-  - 📫 How to reach me: Ezequiel Zvirgzdins (LinkedIn)
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/ezequiel-zvirgzdi%C5%86%C5%A1/">Ezequiel Zvirgzdins</a> (LinkedIn)
 
   <br>
   <br>
