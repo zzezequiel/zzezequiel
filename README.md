@@ -5,9 +5,8 @@
 <p><img align="right" src="https://media.giphy.com/media/COOguXdgZ4hyyTI0Uf/giphy.gif" border-radius="25"></p>
   <br>
   <br>
-  - 🔭 I’m currently working on: customer loyalty app 🐒 (personal project)
     
-  - 🛰️ I'm collaborating on: GMAO software SPI
+  - 🛰️ I'm collaborating on: <a href"https://taclia.com" target="_blank">Taclia</a>
     
   - ⚡ Hobbies: 🏋️‍♂️Gym - ✨Magic tricks - 🚀Space business
     
