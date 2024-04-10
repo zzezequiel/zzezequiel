@@ -6,7 +6,7 @@
   <br>
   <br>
     
-  - 🛰️ I'm collaborating on: <a href"https://taclia.com" target="_blank">Taclia</a>
+  - 🛰️ I'm collaborating on: <a href="https://taclia.com" target="_blank">Taclia</a>
     
   - ⚡ Hobbies: 🏋️‍♂️Gym - ✨Magic tricks - 🚀Space business
     
